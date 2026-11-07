@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.0",
-  "notes": "",
-  "releasedAt": "",
+  "latest": "1.3.6",
+  "notes": "AI客服 v1.3.6 —— 首个自建版本\n\n· 品牌：全面改为「AI客服」\n· 授权：永久 FULL 版（开发测试阶段）\n· 数据目录：%APPDATA%\\AI客服\n· 上报：52xd/AI-customer-service（Issues）\n· 更新：52xd/AI-customer-service-update（本仓库）\n\n⚠ 当前还没有发布安装包，full / patch 字段留空。\n   真正发布时填：\n   \"full\": \"https://github.com/52xd/AI-customer-service-update/releases/download/vX.Y.Z/AI客服-X.Y.Z.zip\"",
+  "releasedAt": "2026-11-08",
   "full": "",
   "fullSize": 0,
   "fullSha256": "",
